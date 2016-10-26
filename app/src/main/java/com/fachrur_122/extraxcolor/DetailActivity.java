@@ -28,7 +28,7 @@ import java.io.IOException;
 
 public class DetailActivity extends Activity {
 
-    private static final String LOG_TAG = "Palettes.DetailActivity";
+    private static final String LOG_TAG = "Extrax.DetailActivity";
 
     private ProgressDialog progDiag;
 
