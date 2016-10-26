@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ExtraxColor</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_detail">ExtraxColor</string>
+    <string name="save_palette_to_gallery">Save Palette To Gallery</string>
+
+</resources>

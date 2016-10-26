@@ -1,0 +1,12 @@
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.fachrur_122.extraxcolor.DetailActivity">
+
+    <item
+        android:id="@+id/save_palette"
+        android:icon="@drawable/ic_save"
+        android:title="@string/save_palette_to_gallery"
+        android:showAsAction="ifRoom"/>
+
+</menu>
